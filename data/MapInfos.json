@@ -1,0 +1,11 @@
+[
+null,
+{"id":1,"expanded":true,"name":"卧室","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":false,"name":"标题","order":1,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"走廊","order":3,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":false,"name":"大厅","order":4,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":5,"expanded":false,"name":"地道","order":5,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"房门1","order":6,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"下行楼梯","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"藏品区","order":8,"parentId":0,"scrollX":832,"scrollY":640}
+]
